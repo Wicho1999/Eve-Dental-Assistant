@@ -1,0 +1,66 @@
+[
+  {
+    "Patient": "Alex Smith",
+    "Visit day": "November 11, 2023",
+    "Visiting Time": "15:00:00",
+    "Disease": "Displaced midline",
+    "Disease Description": "when the upper teeth do not align with the lower teeth.",
+    "Treatment": "Guided bone regeneration"
+  },
+  {
+    "Patient": "John Sawyer",
+    "Visit day": "November 15, 2023",
+    "Visiting Time": "10:00:00",
+    "Disease": "Crowding",
+    "Disease Description": "when the teeth are poorly positioned due to an excessively large measurement of some pieces or a bone that is too small.",
+    "Treatment": "Guided bone regeneration"
+  },
+  {
+    "Patient": "Marck Crawford",
+    "Visit day": "November 16, 2023",
+    "Visiting Time": "13:00:00",
+    "Disease": "Diastemas",
+    "Disease Description": "The teeth are separated due to teeth that are too small or a bone that is too large.",
+    "Treatment": "Guided bone regeneration"
+  },
+  {
+    "Patient": "Paul Carter",
+    "Visit day": "November 20, 2023",
+    "Visiting Time": "14:30:00",
+    "Disease": "Overbite",
+    "Disease Description": "when the crowns of the upper teeth exceed those of the lower teeth by more than a third.",
+    "Treatment": "Prosthesis on implants"
+  },
+  {
+    "Patient": "Carol Williams",
+    "Visit day": "December 5, 2023",
+    "Visiting Time": "15:30:00",
+    "Disease": "Openbite",
+    "Disease Description": "when the front teeth do not touch each other.",
+    "Treatment": "Prosthesis on implants"
+  },
+  {
+    "Patient": "Julian Crosby",
+    "Visit day": "December 8, 2023",
+    "Visiting Time": "17:00:00",
+    "Disease": "Crossbite",
+    "Disease Description": "when when biting and laterally the upper teeth close inside the lower ones.",
+    "Treatment": "Damon Braces"
+  },
+  {
+    "Patient": "Jackquelin Albright",
+    "Visit day": "December 15, 2023",
+    "Visiting Time": "10:00:00",
+    "Disease": "Tooth protrusion",
+    "Disease Description": "the lower teeth are too forward.",
+    "Treatment": "Damon Braces"
+  },
+  {
+    "Patient": "Rita Thomas",
+    "Visit day": "December 18, 2023",
+    "Visiting Time": "9:00:00",
+    "Disease": "Tooth retrusion",
+    "Disease Description": "The lower teeth close too far back.",
+    "Treatment": "invisible orthodontics"
+  }
+]

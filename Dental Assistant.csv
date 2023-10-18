@@ -1,0 +1,9 @@
+Patient;Visit day;Visiting Time;Disease;Disease Description;Treatment
+Alex Smith;November 11, 2023;15:00:00;Displaced midline;when the upper teeth do not align with the lower teeth.;Guided bone regeneration
+John Sawyer;November 15, 2023;10:00:00;Crowding;when the teeth are poorly positioned due to an excessively large measurement of some pieces or a bone that is too small.;Guided bone regeneration
+Marck Crawford;November 16, 2023;13:00:00;Diastemas;The teeth are separated due to teeth that are too small or a bone that is too large.;Guided bone regeneration
+Paul Carter;November 20, 2023;14:30:00;Overbite;when the crowns of the upper teeth exceed those of the lower teeth by more than a third.;Prosthesis on implants
+Carol Williams;December 5, 2023;15:30:00;Openbite;when the front teeth do not touch each other.;Prosthesis on implants
+Julian Crosby;December 8, 2023;17:00:00;Crossbite;when when biting and laterally the upper teeth close inside the lower ones.;Damon Braces
+Jackquelin Albright;December 15, 2023;10:00:00;Tooth protrusion;the lower teeth are too forward.;Damon Braces
+Rita Thomas;December 18, 2023;9:00:00;Tooth retrusion;The lower teeth close too far back.;invisible orthodontics
